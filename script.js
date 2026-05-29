@@ -41,4 +41,4 @@ nextBtn.addEventListener("click", nextSlide);
 prevBtn.addEventListener("click", prevSlide);
 
 // Auto Slide Every 15 Seconds
-setInterval(nextSlide, 30000);
+setInterval(nextSlide, 15000);
